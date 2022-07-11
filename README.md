@@ -14,6 +14,7 @@ It's still a PoC, don't use it in production!
 - add metrics
 - migrate into metrics "github.com/devopsext/sre/common" instead of custom realization
 - switch into common logging and tracing
+- add multiple siteIDs
 
 
 # Configuration
