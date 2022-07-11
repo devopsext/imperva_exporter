@@ -13,6 +13,8 @@ It's still a PoC, don't use it in production!
 # TODO
 - add metrics
 - migrate into metrics "github.com/devopsext/sre/common" instead of custom realization
+- switch into common logging and tracing
+
 
 # Configuration
 
