@@ -1,0 +1,5 @@
+.vscode
+.git/
+coverage.txt
+__debug_bin
+.idea/
