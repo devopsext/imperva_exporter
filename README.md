@@ -25,10 +25,10 @@ It can be configured via environment variables or command line flags:
 | ----------------------------------------|-------------------| -----------------------------------|
 | IMPERVA_EXPORTER_LISTEN_ADDRESS         | --listen-address  | Address to listen on for telemetry |
 | IMPERVA_EXPORTER_METRICS_PATH           | --metrics-path    | Path under which to expose metrics |
-| IMPERVA_EXPORTER_IMPERVA_MANAGEMENT_URL | --imperpva-url    | Imperva management URL | 
-| IMPERVA_EXPORTER_IMPERVA_API_ID         | --imperva-api-id  | Imperva API ID | 
-| IMPERVA_EXPORTER_IMPERVA_API_KEY        | --imperva-api-key | Imperva API KEY |
-| IMPERVA_EXPORTER_IMPERVA_SITE_ID        | --imperva-site-id | Imperva SiteID |
+| IMPERVA_EXPORTER_MANAGEMENT_FQDN | --imperpva-url    | Imperva management URL | 
+| IMPERVA_EXPORTER_API_ID         | --imperva-api-id  | Imperva API ID | 
+| IMPERVA_EXPORTER_API_KEY        | --imperva-api-key | Imperva API KEY |
+
 
 # Provided metrics
 
